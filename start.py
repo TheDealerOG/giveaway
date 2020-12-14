@@ -558,4 +558,4 @@ async def on_ready():
 	print('------')
 
 
-bot.run(NzM3MjYwNTAyNDUwODMxMzkx.Xx6xWQ.Pek75ewvzPKUygu2fOld69jRknU)
+bot.run(Nzg3OTMzOTc2NzQ3ODM1NDAy.X9cKsw.kVRGLz-Zovf42TmODEijG7jh4VM)
